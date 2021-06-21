@@ -19,8 +19,6 @@ pg$color[pg$group=="ctrl"] <- "red"
 pg$color[pg$group=="trt1"] <- "Violet"
 pg$color[pg$group=="trt2"] <- "blue"
 
-
-
 # plot the dot chart
 dotchart(PlantGrowth$weight, labels=PlantGrowth$group,cex=0.8,groups= PlantGrowth$group,
          main="group vs weight",
