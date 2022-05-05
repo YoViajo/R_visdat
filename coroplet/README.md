@@ -1,6 +1,6 @@
 **Mapas coropléticos**
 
-Ejemplo: Referendo constitucional 2016 en Bolivia
+Datos: Referendo constitucional 2016 en Bolivia (OEP 2016)
 
 Diferentes funciones ofrecen diferentes resultados
 
