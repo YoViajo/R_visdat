@@ -2,6 +2,8 @@
 
 **Visualización de datos con R**
 
+Diferentes exploraciones de visualización de datos con R
+
 ---
 
 ## 📊 Contenido
