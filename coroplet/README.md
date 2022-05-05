@@ -1,4 +1,4 @@
-** Mapas coropléticos **
+**Mapas coropléticos**
 
 Ejemplo: Referendo constitucional 2016 en Bolivia
 
