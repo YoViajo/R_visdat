@@ -10,6 +10,7 @@ Exploraciones en visualización de datos con múltiples funciones de R
 
 | Proyecto             |  Gráfico |
 :-------------------------:|:-------------------------:
+[Espiral del tiempo](espiral/README.md)  |  ![](espiral/salida/nuevos_casos_covid-19_Bolivia_2020-2022ene.png)
 [Mapas coropléticos](coroplet/README.md)  |  ![](coroplet/salida/3_Referendo_constitucional_2016_pct_votoSí.png)
 [Distancia en superficie hexagonal](hex_dist/README.md)  |  ![](hex_dist/salida/bolivia_hospitals_25022022.png)
 [Mapa ciudad OSM](ciudad/README.md)  |  ![](ciudad/salida/scz_map_dark_y_light.png)
