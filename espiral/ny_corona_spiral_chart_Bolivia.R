@@ -1,6 +1,9 @@
+## Espiral del tiempo, estilo New York Time
+## Evolución de nuevos casos de COVID-19 en Bolivia, hasta inicios de enero 2022
+
+## basado en:
 # Recreating the New York Times COVID-19 Spiral Graph
 # Ref: https://bydata.github.io/nyt-corona-spiral-chart/
-# Adaptado para Bolivia
 
 # Paquetes
 #pacman::p_load("tidyverse", "ggtext", "here", "lubridate")
