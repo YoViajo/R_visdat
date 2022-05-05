@@ -2,7 +2,7 @@
 
 **Visualización de datos con R**
 
-Diferentes exploraciones de visualización de datos con R
+Exploraciones en visualización de datos con múltiples funciones de R
 
 ---
 
