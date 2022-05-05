@@ -1,6 +1,6 @@
 **Treemap**
 
-Datos: Distribución de exportaciones de Bolivia, tradicionales y no-tradicionales
+Datos: Distribución de exportaciones de Bolivia, tradicionales y no-tradicionales 2021 (proyección)
 
 ![](salida/Rplot-1.png)
 
