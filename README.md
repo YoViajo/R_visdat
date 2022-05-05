@@ -1,6 +1,11 @@
 # R_visdat
-R visualización de datos
 
-\lab  Revisión de tutoriales
+**Visualización de datos con R**
 
-\pruebas  Pruebas con datos propios
+---
+
+## 📊 Contenido
+
+| Proyecto             |  Gráfico |
+:-------------------------:|:-------------------------:
+[Mapas coropléticos](coroplet/README.md)  |  ![](coroplet/salida/3_Referendo_constitucional_2016_pct_votoSí.png)
