@@ -11,3 +11,4 @@ Diferentes exploraciones de visualización de datos con R
 | Proyecto             |  Gráfico |
 :-------------------------:|:-------------------------:
 [Mapas coropléticos](coroplet/README.md)  |  ![](coroplet/salida/3_Referendo_constitucional_2016_pct_votoSí.png)
+[Treemap](treemap/README.md)  |  ![](treemap/salida/Rplot-1.png.png)
